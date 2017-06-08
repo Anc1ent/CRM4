@@ -45,6 +45,7 @@ $route['404_override'] = 'errors/e404';
 $route['admin/enter'] = 'admin/auth/enter';
 $route['admin/logout'] = 'admin/auth/logout';
 $route['admin/emails/(:any)'] = 'admin/emails/$1';
+$route['admin/mailchump/(:any)'] = 'admin/mailchump/$1';
 $route['free-quote'] = 'main/free_quote/';
 $route['about-us'] = 'main/about_us/';
 $route['shipping-process'] = 'main/shipping_process/';

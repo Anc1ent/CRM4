@@ -40,6 +40,20 @@ define('FOPEN_READ_WRITE_CREATE_STRICT',		'x+b');
 define('ADMIN_LOGIN', 'root');
 define('ADMIN_PASSWORD', 'root');
 
+define( 'MAILCHIMP_TECHADRESS1_EMAIL', 'anc.test1@mail.ru' );
+define( 'MAILCHIMP_TECHADRESS1_PASS', 'ro1vae78r' );
+define( 'MAILCHIMP_TECHADRESS2_EMAIL', 'anc.test2@mail.ru' );
+define( 'MAILCHIMP_TECHADRESS2_PASS', 'ro1vae78r' );
+define( 'MAILCHIMP_TECHADRESS3_EMAIL', 'anc.test3@mail.ru' );
+define( 'MAILCHIMP_TECHADRESS3_PASS', 'ro1vae78r' );
+define( 'MAILCHIMP_TECHADRESS4_EMAIL', 'anc.test4@mail.ru' );
+define( 'MAILCHIMP_TECHADRESS4_PASS', 'ro1vae78r' );
+define( 'MAILCHIMP_TECHADRESS5_EMAIL', 'anc.test5@mail.ru' );
+define( 'MAILCHIMP_TECHADRESS5_PASS', 'ro1vae78r' );
+
+define( 'MAILCHIMP_SERVER_URL', 'https://us14.api.mailchimp.com/3.0' );
+define( 'MAILCHIMP_API_KEY', 'user:9b3c8b114c9042edbcc02956d6450ea5-us14' );
+
 // https://login.sendpulse.com/settings/#api
 define( 'API_USER_ID', '38c7c5d901758ada73bbf3d32264613f' );
 define( 'API_SECRET', '97def00d4e5d08c226bcd54eee5b66a5' );
